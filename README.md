@@ -1,2 +1,1 @@
-# Doc_Organizer
-File organizer by extension.
+Using TkInter, this script organizes documents by extension type, in this example, the dictionary categorizes .png, .jpg, .csv and .pdf files. The script then defines their directories and creates new folders.
